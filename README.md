@@ -9,8 +9,6 @@
 
 Git e GitHub são coisas diferentes mas você vai fazer elas trabalharem juntas, então abra um terminal
 
-![Terminal](C:\Users\luana\OneDrive\Imagens\DIO\Terminal.png)
-
 Digite:
 
 > git config --list 
@@ -57,8 +55,6 @@ Markdown é um formato simples de marcação de texto muito utilizado em arquivo
 
 ​	Primeiro precisa ser criado o repositório no site do GitHub. Ao criar, selecione a caixa para a criação do README e está feito.
 
-![Arquivo readme](C:\Users\luana\OneDrive\Imagens\DIO\Arquivo readme.png)
-
 Depois vá em CODE e copie o link https do seu novo repositório. 
 
 Vá até a pasta do seu projeto e inicie o terminal novamente com o ***Git Bash Here*** e inicie:
@@ -93,16 +89,16 @@ Vá até a pasta do seu projeto e inicie o terminal novamente com o ***Git Bash 
 >
 > git clone linkcopiado
 >
-> - clona um repositório desejado através do link 
+> * clona um repositório desejado através do link 
 
 
 
 Finalizo aqui o meu primeiro projeto sobre Git/GitHub do BootCamp Spread Java Developer, caso quiser me passar umas dicas do mundo da programação, entre em contato comigo: 
 
-[LinkedIn] (https://www.linkedin.com/in/luana-cristina-cunha-34a4ba225/)
+[LinkedIn](https://www.linkedin.com/in/luana-cristina-cunha-34a4ba225/)
 
-[GitHub] (https://github.com/scalzin)
+[GitHub](https://github.com/scalzin) 
 
-[Instagram] (https://www.instagram.com/scalzin/)
+[Instagram](https://www.instagram.com/scalzin/) 
 
  Obrigada :purple_heart: 
