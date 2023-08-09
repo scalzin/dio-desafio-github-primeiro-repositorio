@@ -62,40 +62,37 @@ Vá até a pasta do seu projeto e inicie o terminal novamente com o ***Git Bash 
 > git init 
 >
 > git remote add origin insiraolinkaqui 
->
-> - repositório do GitHub para o servidor local
+> - para repositório do GitHub para o servidor local
 >
 > git remote -v 
->
 > - para ver os arquivos que estão no repositório
 >
-> git add nomedoarquivo
->
-> 1. git add . para todos os arquivos
->
-> - adicionar arquivos para a área staging (preparo)
+> git add "nomedoarquivo"
+>  para adicionar somente um arquivo 
+>  para todos os arquivos -> git add .
 >
 > git commit -m "alterações realizadas"
->
-> - efetiva as alterações
+> - para efetivar (commitar) as alterações
 >
 > git push origin master (ou main)
->
 > - "empurra" do local para o servidor
 >
+>  git remote add origin linkdorepositoriogit
+>  git branch -M main
+>  git push -u origin main
+> - para dar push em um repositório já existente pela linha de comando
+> 
 > git pull origin master (ou main)
->
 > - caso tenha mais de uma pessoa alterando o código presente no servidor, esse comando mescla todas as alterações recentes do repositório remoto
 >
 > git clone linkcopiado
->
 > * clona um repositório desejado através do link 
-
+>
 
 
 Finalizo aqui o meu primeiro projeto sobre Git/GitHub do BootCamp Spread Java Developer, caso quiser me passar umas dicas do mundo da programação, entre em contato comigo: 
 
-[LinkedIn](https://www.linkedin.com/in/luana-cristina-cunha-34a4ba225/)
+[LinkedIn](https://www.linkedin.com/in/luanacristinacunha/)
 
 [GitHub](https://github.com/scalzin) 
 
